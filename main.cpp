@@ -25,8 +25,8 @@ void print_text(int text_num){
         getline(type_text,text_line); 
         cout<<text_line;
     }
+    type_text.close();
     cout << endl << "Start typing!" << endl;
-	type_text.close();
     return;    
 }
 
