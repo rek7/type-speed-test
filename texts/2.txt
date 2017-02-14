@@ -1,0 +1,9 @@
+Teams consist of nine players who use a leather-covered hard ball, 
+a wooden (in the professional game) or aluminum bat, and padded gloves. 
+Additionally, the batter, catcher, and home-plate umpire wear special protective gear. 
+Teams alternate turns in the field and at bat, the home team batting last. One turn at bat for each team constitutes an inning,
+and nine innings constitute a game. In the field there are a pitcher, a catcher, four infielders, and three outfielders. The pitcher throws overhand, employing a variety of deliveries (fastball, curve, knuckleball, etc.), 
+from the raised pitcher's mound to home plate, a distance of 60.5 ft (18.4 m). An opposing batter attempts to hit the pitches and safely reach base, while the fielders attempt to put the batter out through various plays.
+A batter who misses three pitches, or fails to swing at three judged hittable, is out on "strikes"; but if the pitcher first throws four pitches out of the strike zone, the batter obtains a base on balls, or "walks" to first base. 
+A run is scored every time a batter becomes a runner and crosses home plate after touching each base in the prescribed order. When the fielding team puts out 
+three batters (or runners), the teams exchange places. If the score is tied at the end of nine innings, play continues into extra innings until one team has scored more runs than the other in an equal number of turns at bat.
